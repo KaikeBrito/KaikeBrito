@@ -103,10 +103,9 @@ Organizado estrategicamente para desenvolvimento end-to-end e integração cont�
 
 | 📦 Projeto | 📝 Descrição | 🛠️ Tecnologias | 🔗 Link |
 | :--- | :--- | :--- | :---: |
-| **[Nome do Projeto 1]** | Arquitetura de microsserviços desenvolvida do zero para alta concorrência. Implementação de mensageria assíncrona e padrões SOLID. | `.NET` `C#` `Kafka` `Docker` | [Ver Repositório](#) |
-| **[Nome do Projeto 2]** | Sistema de análise e processamento de dados para extração de métricas críticas e relatórios preditivos. | `Python` `Pandas` `Docker` | [Ver Repositório](#) |
-| **[Automação n8n & APIs]** | Conteinerização de APIs RESTful e instâncias virtuais n8n para automação de workflows e integração de sistemas. | `Docker` `Node.js` `REST API` | [Ver Repositório](#) |
-
+| **[Stroke AI Platform](#)** | Arquitetura Full-Stack voltada à saúde preditiva (TCC). Implementa **Machine Learning (XGBoost/SHAP)** para estratificação de risco clínico e **Deep Learning (Efficient/Grad-CAM)** na classificação de anomalias em tomografias. | `FastAPI` `React` `Docker` `Machine Learning` | [Ver Repositório](#) |
+| **[Projeto Aurum](#)** | Sistema automatizado de *Quality Factor Investing* (universo IBRA). Possui um pipeline modular de 5 estágios que cruza dados fundamentalistas com **análise de sentimentos (NLP)** de notícias para gerar o *Aurum Quality Score*. | `Python` `Data Science` `NLP` `Backtesting` | [Ver Repositório](#) |
+| **[MathMatch](#)** | Marketplace *on-demand* que conecta alunos e professores. Arquitetura robusta estruturada com cache em **Redis** para performance, isolamento de *PaymentService* e esteiras profissionais de **CI/CD (GitHub Actions)**. | `Java/Spring` `React` `PostgreSQL` `Redis` | [Ver Repositório](#) |
 <br>
 
 <div align="center">
