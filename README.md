@@ -79,9 +79,8 @@ Organizado estrategicamente para desenvolvimento end-to-end e integração cont�
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaikeBrito&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" alt="Kaike's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeBrito&layout=compact&theme=dracula" alt="Top Languages" />
-
+  <img height="180em" src="https://github-readme-stats-kappa-azure-61.vercel.app/api?username=KaikeBrito&show_icons=true&theme=dracula&rank_icon=github&include_all_commits=true" alt="Kaike's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-kappa-azure-61.vercel.app/api/top-langs/?username=KaikeBrito&layout=compact&theme=dracula" alt="Top Languages" />
   <br><br>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaikeBrito&theme=dracula&hide_border=true" alt="GitHub Streak" />
